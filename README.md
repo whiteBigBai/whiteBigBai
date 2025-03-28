@@ -5,4 +5,4 @@
 - 📖 个人博客：
   - [whiteBigBai](https://whitebigbai.github.io/)
 
-![404制造者's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteBigBai&theme=vue-dark&show_icons=true)
+![404制造者's GitHub stats]()
